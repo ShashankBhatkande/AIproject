@@ -16,7 +16,7 @@ PATH = os.path.join('data')
 actions = np.array(os.listdir(PATH))
 
 # Define the number of sequences and frames
-sequences = 30
+sequences = 10
 frames = 10
 
 # Create a label map to map each action label to a numeric value

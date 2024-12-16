@@ -11,7 +11,7 @@ import keyboard
 actions = np.array(['', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'me', 'name', 'hello', 'like', 'food'])
 
 # Define the number of sequences and frames to be recorded for each action
-sequences = 30
+sequences = 10
 frames = 10
 
 # Set the path where the dataset will be stored
